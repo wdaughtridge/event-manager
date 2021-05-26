@@ -3,10 +3,10 @@ import 'react-s-alert/dist/s-alert-default.css';
 import 'react-s-alert/dist/s-alert-css-effects/scale.css';
 
 const defaults = {
-    position: 'top-right',
-    effect: 'scale',
-    timeout: 3500,
-    offset: 45,
+  position: 'top-right',
+  effect: 'scale',
+  timeout: 3500,
+  offset: 45,
 };
 
 export { Alert };
